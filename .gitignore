@@ -1,0 +1,13 @@
+# Temporary and log files
+.Xil
+*.str
+*.jou
+*.log
+
+# Generated folders
+synth
+checkpoint
+hd_visual
+impl 
+bits
+sim/proj
